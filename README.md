@@ -6,5 +6,5 @@
 - bla, bla, ...
 
 ## Observaciones
-1 Parece facil
-2 Esperemos
+1. Parece facil
+2. Esperemos
